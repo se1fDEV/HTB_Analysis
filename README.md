@@ -40,10 +40,12 @@ pip install -r requirements.txt</code></pre>
 <pre><code>python HTB_ldap_fuzzer.py</code></pre>
 
 <p>Upon prompt, enter the path to your wordlist or charset. Press Enter to use the default wordlist provided.</p>
-![image](https://github.com/se1fDEV/HTB_Analysis/assets/154564062/b6ad19e0-ef30-4d01-a1c1-ead284476e86)
+![HTB_Analysis_code](https://github.com/se1fDEV/HTB_Analysis/assets/154564062/a68b7d46-d92b-4166-ac64-e6448a2cd043)
+
 <h2>License</h2>
 
 <p>This project is licensed under the MIT License.</p>
 
-![HTB_Analysis_s](https://github.com/se1fDEV/HTB_Analysis/assets/154564062/774a1fd6-0fcb-4c4f-8c1d-6f61b6796654)
+![HTB_Analysis_img](https://github.com/se1fDEV/HTB_Analysis/assets/154564062/774a1fd6-0fcb-4c4f-8c1d-6f61b6796654)
+
 
