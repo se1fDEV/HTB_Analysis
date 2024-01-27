@@ -41,11 +41,12 @@ pip install -r requirements.txt</code></pre>
 
 <p>Upon prompt, enter the path to your wordlist or charset. Press Enter to use the default wordlist provided.</p>
 
+![HTB_Analysis_img](https://github.com/se1fDEV/HTB_Analysis/assets/154564062/9423bd40-3b28-4703-9509-c0d4805160f6)
+
+
 <h2>License</h2>
 
 <p>This project is licensed under the MIT License.</p>
 
 ![HTB_Analysis_img](https://github.com/se1fDEV/HTB_Analysis/assets/154564062/774a1fd6-0fcb-4c4f-8c1d-6f61b6796654)
 
-
-![HTB_Analysis_img](https://github.com/se1fDEV/HTB_Analysis/assets/154564062/9423bd40-3b28-4703-9509-c0d4805160f6)
