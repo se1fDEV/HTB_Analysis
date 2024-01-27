@@ -37,7 +37,7 @@ pip install -r requirements.txt</code></pre>
 <h3>Running the Script</h3>
 
 <p>Execute the script with the following command:</p>
-<pre><code>python ldap_fuzzer.py</code></pre>
+<pre><code>python HTB_ldap_fuzzer.py</code></pre>
 
 <p>Upon prompt, enter the path to your wordlist or charset. Press Enter to use the default wordlist provided.</p>
 
