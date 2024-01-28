@@ -1,8 +1,9 @@
 <h1>HTB_Analysis</h1>
 
 <p>HTB_Analysis is a Python script designed for testing and  LDAP injections and similar vulnerabilities through fuzzing LDAP with a specified wordlist or charset.</p>
-<p>This one will also help to automate and facilitate the walkthrough of "Analysis" machine<p>
+<p>This one will also help to automate and facilitate the walkthrough of  <a href="https://app.hackthebox.com/machines/584">"Analysis" machine</a> on HackTheBox<p>
 
+<p><a href="https://app.hackthebox.com/profile/519935">hackthebox.com/profile/se1fDev</a></p>
 <h2>Getting Started</h2>
 
 <p>These instructions will guide you on how to set up and run HTB_Analysis on your local machine for development and testing purposes.</p>
